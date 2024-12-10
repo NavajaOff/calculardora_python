@@ -1,1 +1,1 @@
-print("Suma")
+print("Resta")
